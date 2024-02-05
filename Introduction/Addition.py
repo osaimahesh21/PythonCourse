@@ -1,4 +1,4 @@
 a = 22
-b =  44
+b =  45
 c = a+b
 print("Total:", c)
